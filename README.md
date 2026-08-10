@@ -1,3 +1,6 @@
+<img width="1712" height="952" alt="image" src="https://github.com/user-attachments/assets/23cd94f2-9470-4085-98c7-a10c30d3ffb8" />
+
+
 # Customer Intelligence & Behavioral Analytics Platform
 
 An end-to-end retail customer analytics project using Python,
